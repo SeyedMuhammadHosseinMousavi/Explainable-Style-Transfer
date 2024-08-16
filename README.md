@@ -56,7 +56,8 @@ This project employs several XAI techniques to help understand the motion style 
    - **Method**: Generates heatmaps that show differences between the original and generated data across all samples.
    - **Output**: 
      - **Heatmaps**: Use color gradients to indicate the intensity of differences, making it easy to spot significant changes.
-![image](https://github.com/user-attachments/assets/900d23c8-e65d-441d-9096-9636a869899c)
+ ![image](https://github.com/user-attachments/assets/a8fd25c4-69df-43d4-bd01-e21930b531a1)
+
 
 ### 5. **Joint Trajectory Visualization**
    - **Purpose**: To visualize the motion of each joint across time.
