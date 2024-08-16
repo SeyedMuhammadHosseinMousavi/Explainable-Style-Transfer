@@ -49,15 +49,18 @@ This project employs several XAI techniques to help understand the motion style 
    - **Method**: Plots scatter plots comparing the original vs. generated data for selected joints.
    - **Output**: 
      - **Scatter Plots**: Each plot provides a direct visual comparison for each joint.
+![image](https://github.com/user-attachments/assets/9501affb-7b2d-4cf3-a536-9858b8615845)
 
 ### 4. **Heatmaps**
    - **Purpose**: To visually represent the magnitude of differences across joints and samples.
    - **Method**: Generates heatmaps that show differences between the original and generated data across all samples.
    - **Output**: 
      - **Heatmaps**: Use color gradients to indicate the intensity of differences, making it easy to spot significant changes.
+![image](https://github.com/user-attachments/assets/900d23c8-e65d-441d-9096-9636a869899c)
 
 ### 5. **Joint Trajectory Visualization**
    - **Purpose**: To visualize the motion of each joint across time.
    - **Method**: Plots the trajectory of each joint over time, comparing the original and generated motions.
    - **Output**: 
      - **Line Plots**: Show how each joint moves over time, with side-by-side comparisons for original and generated motions.
+![image](https://github.com/user-attachments/assets/8079c0ba-7ba3-4726-af62-9138e603c8b3)
