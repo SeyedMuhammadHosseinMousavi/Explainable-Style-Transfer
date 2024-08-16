@@ -224,7 +224,7 @@ def generate_samples_with_style(decoder, latent_dim, style_encoded, num_samples,
 # Main process
 base_folder = 'BFA Emotion'  # Path to your folder containing subfolders  
 style_folder = 'styleemotion'  # Folder containing style data
-output_folder = 'vae_output'
+output_folder = 'ST_output'
 latent_dim = 10
 num_new_samples = 1
 epochs = 10
